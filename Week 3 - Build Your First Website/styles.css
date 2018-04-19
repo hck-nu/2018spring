@@ -1,0 +1,30 @@
+body {
+	max-width: 1000px;
+	margin: auto;
+	font-family: 'Mada', sans-serif;
+}
+
+#landing {
+	padding-top: 100px;
+	margin-bottom: 200px;
+	text-align: center;
+}
+
+#blurb > a {
+	margin: 0 50px;
+}
+
+.lead {
+	font-size: 1.2em;
+	font-weight: lighter;
+}
+
+#headshot {
+	cursor: pointer;
+	border-radius: 50%;
+}
+
+section {
+	padding-left: 20px;
+	margin-top: 50px;
+}
