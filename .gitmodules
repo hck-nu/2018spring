@@ -1,3 +1,6 @@
 [submodule "playlist-viz"]
 	path = Week 5 - Spotify Data Viz
 	url = https://github.com/hck-nu/playlist-viz/
+[submodule "Week 7 - Spotify Data Viz"]
+	path = Week 7 - Spotify Data Viz
+	url = https://github.com/hck-nu/playlist-viz/
